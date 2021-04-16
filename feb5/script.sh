@@ -1,0 +1,7 @@
+echo " "
+echo "Hello $USER"
+echo "Your bash is: $BASH" 
+echo "Your bash version is: $BASH_VERSION"
+echo "Your home directory is at: $HOME"
+echo "Present Working Directory is: $PWD"
+echo " "
